@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Elasbi Meeting",
+      "day": "April 15th at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting Vice",
+      "day": "April 16th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Meeting at School",
+      "day": "May 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Visiting GrandMa",
+      "day": "May 24th at 4:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Going out for Dinner",
+      "day": "April 25th at 6:00pm",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Build a Task Tracker App",
+      "day": "April 14th at 11:00am",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
